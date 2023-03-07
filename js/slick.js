@@ -118,6 +118,7 @@
             };
 
             $.extend(_, _.initials);
+            
 
             _.activeBreakpoint = null;
             _.animType = null;
